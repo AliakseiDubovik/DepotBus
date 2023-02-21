@@ -61,7 +61,7 @@ namespace BusDepot.Controllers
             return CreatedAtAction(nameof(Get), new { Id = trip.Id }, trip);
         }
 
-        [HttpPost("AddTrip")]
+        [HttpPost("add-trip")]
         public IActionResult PostBody([FromBody] Trip trip) => Post(trip);
 
         public IActionResult Put(Trip trip)//обновление поездки
@@ -85,7 +85,7 @@ namespace BusDepot.Controllers
             return Ok(storeTrip);
         }
 
-        [HttpPut("UpdateTrip")]
+        [HttpPut("update-trip")]
             public IActionResult PutBody([FromBody] Trip trip) => Put(trip);
 
 
