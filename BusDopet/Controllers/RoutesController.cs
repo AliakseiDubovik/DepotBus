@@ -58,7 +58,7 @@ namespace BusDepot.Controllers
             return Ok(storeRoute);
         }
 
-        [HttpPost("add-route")] //добавление автобуса
+        [HttpPost("add-route")] //добавление маршрута
         public IActionResult AddRoute ([FromForm]Route route)
         {
             if (!ModelState.IsValid)
@@ -72,7 +72,7 @@ namespace BusDepot.Controllers
             return Ok();
         }
 
-        [HttpDelete("{id}")] //удаление автобуса
+        [HttpDelete("{id}")] //удаление маршрута
 
         public IActionResult Delete(Guid id)
         {
