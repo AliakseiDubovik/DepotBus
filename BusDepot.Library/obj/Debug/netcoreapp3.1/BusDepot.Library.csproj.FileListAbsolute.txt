@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\BusDepot\DepotBus\BusDepot.Library\bin\Debug\netcoreapp3.1\BusDepot.Library.deps.json
+C:\Users\user\Desktop\BusDepot\DepotBus\BusDepot.Library\bin\Debug\netcoreapp3.1\BusDepot.Library.dll
+C:\Users\user\Desktop\BusDepot\DepotBus\BusDepot.Library\bin\Debug\netcoreapp3.1\BusDepot.Library.pdb
+C:\Users\user\Desktop\BusDepot\DepotBus\BusDepot.Library\obj\Debug\netcoreapp3.1\BusDepot.Library.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\BusDepot\DepotBus\BusDepot.Library\obj\Debug\netcoreapp3.1\BusDepot.Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\BusDepot\DepotBus\BusDepot.Library\obj\Debug\netcoreapp3.1\BusDepot.Library.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\BusDepot\DepotBus\BusDepot.Library\obj\Debug\netcoreapp3.1\BusDepot.Library.AssemblyInfo.cs
+C:\Users\user\Desktop\BusDepot\DepotBus\BusDepot.Library\obj\Debug\netcoreapp3.1\BusDepot.Library.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\BusDepot\DepotBus\BusDepot.Library\obj\Debug\netcoreapp3.1\BusDepot.Library.dll
+C:\Users\user\Desktop\BusDepot\DepotBus\BusDepot.Library\obj\Debug\netcoreapp3.1\BusDepot.Library.pdb
